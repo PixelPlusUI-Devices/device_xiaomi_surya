@@ -1,3 +1,10 @@
 # Blur
 ro.surface_flinger.supports_background_blur=1
 ro.sf.blurs_are_expensive=1
+
+# PixelPlusUI OFFICIAL
+ro.ppui.device_name=Poco X3 NFC
+ro.ppui.version=3.7
+ro.ppui.version_code=Ragnarok
+ro.ppui.is_official=true
+ro.ppui.maintainer_name=i-Jack
